@@ -448,7 +448,7 @@ custom:
 
     weekend_morning:
       name: "周末早间"
-      start: "9:00"
+      start: "09:00"
       end: "12:00"                 # 跨度 2h
       push: true
       report_mode: "daily"         # 周末看全天汇总
